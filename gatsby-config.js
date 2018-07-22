@@ -15,6 +15,13 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `data`,
+        path: `${__dirname}/src/data/`
+      },
+    },
+    {
       resolve: `gatsby-transformer-remark`,
       options: {
         excerpt_separator: `<!-- end -->`,
@@ -25,6 +32,14 @@ module.exports = {
               maxWidth: 700,
               linkImagesToOriginal: false,
               wrapperStyle: 'margin: 15px -30px !important'
+            },
+          },
+          {
+            resolve: `gatsby-source-youtube`,
+            options: {
+              channelId: '<<Youtube channelID eg. UCK8sQmJBp8GCxrOtXWBpyEA >>',
+              apiKey: '<< Add your Youtube api key here>>',
+              maxVideos: 50 // Defaults to 50
             },
           },
           {
