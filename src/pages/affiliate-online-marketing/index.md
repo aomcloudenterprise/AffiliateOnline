@@ -1,7 +1,7 @@
 ---
 title: Affiliate Online Marketing!
 date: "2018-06-29"
-path:/src/pages/Affiliate-Online-Marketing
+path:/src/pages/affiliate-online-marketing
 category: Affiliate Online Marketing
 ---
 This post is about the Top 5 Affiiate Online Marketing Affliate Programs Of 2018.
