@@ -1,7 +1,7 @@
 module.exports = {
   title: 'AOM Cloud Enterprise', // Required
   author: 'danklut', // Required
-  tagline: 'Full-stack Web Developer',
+  tagline: 'An Affiliate Online Marketing Platform That Teaches You The Tips And Tricks Of Online Marketing',
   primaryColor: '#3498db', // Required
   showHeaderImage: true,
   showShareButtons: true,
