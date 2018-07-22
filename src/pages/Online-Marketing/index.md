@@ -7,7 +7,7 @@ category: Online Marketing
 
 This post is going to describe some of the most popular types of Online Marketing and the different uses between the types
 <!-- end -->
-  [online marketing].
+ 
 
 ## Online or Digital Marketing 
 
