@@ -1,7 +1,8 @@
 ---
-title: "The Most Popular Types OF Onlne Marketing!"
+title: "The Most Popular Types Of Onlne Marketing!"
 date: "2018-06-30"
-path:
+path:/src/pages/online-marketing
+category: Online Marketing
 ---
 
 This post is going to describe some of the most popular types of Online Marketing and the different uses between the types
