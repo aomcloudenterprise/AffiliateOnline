@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Dev Blog', // Required
+  title: 'AOM Cloud Enterprise', // Required
   author: 'danklut', // Required
   tagline: 'Full-stack Web Developer',
   primaryColor: '#3498db', // Required
