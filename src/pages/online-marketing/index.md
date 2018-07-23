@@ -11,11 +11,12 @@ more tools made available by the internet. Online marketing is often referred to
 <!-- end -->
 
 
-
 Online Marketing
 
 
 
+
+>![Online Marketing](./online-marketing01.jpg)
 
 
 
@@ -26,6 +27,8 @@ Affiliate Online Marketing
 
 
 
+>![Affiliate Online Marketing](./affiliate-online-marketing01.jpg)
+
 
 
 
@@ -33,8 +36,10 @@ Affiliate Online Marketing
 Video Online Marketing
 
 
-.
 
+
+>![Video Online Marketing](./video-online-marketing01.jpg)
+.
 
 
 
@@ -43,6 +48,8 @@ Online Content Marketing
 
 
 
+
+>![Online Content Marketing](./online-content-marketing01.jpg)
 
 
 
@@ -53,7 +60,7 @@ Social Media Marketing
 
 
 
-
+>![Social Media Marketing](./social-media-marketing01.jpg)
 
 
 
@@ -64,7 +71,7 @@ Search Engine Optimization (SEO)
 
 
 
-
+>![Search Engine Optimization](./search-engine-optimization01.jpg)
 
 
 
@@ -75,8 +82,7 @@ Search Engine Marketing (SEM)
 
 
 
-
-
+>![Search Market Optimization](./search-engine-marketing01.jpg)
 
 
 
@@ -87,14 +93,20 @@ Email Marketing
 
 
 
-
-
+>![Email Marketing](./email-marketing01.jpg)
 
 
 
 
 
 Pay Per Click Advertising
+
+
+
+
+>![Pay Per Click Advertising](./pay-per-click-advertising01.jpg)
+
+
 
 
 
