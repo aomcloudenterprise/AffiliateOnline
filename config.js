@@ -9,7 +9,7 @@ module.exports = {
   social: {
     website: 'https://aomcloudenterprise.com',
     github: 'https://github.com/danklut',
-    twitter: 'https://twitter.com/klutmeyer',
-    linkedin: 'https://ca.linkedin.com/in/danklutmeyer'
+    twitter: 'https://www.twitter.com/klutmeyer',
+    linkedin: 'https://www.linkedin.com/in/dan-klutmeyer-b221208a/'
   }
 };
