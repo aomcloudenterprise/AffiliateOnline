@@ -2,14 +2,15 @@
 title: "How To Use Online Content Marketing"
 date: "2018-07-01"
 path: "/src/pages/online-content-marketing"
-category: "Online Content Marketing"
+
 ---
-This post explains the difference between Content Marketing and the other types of online marketing and how to use Online Content Marketing as part of your own marketing strategy
+Content marketing is a type of online marketing that involves the sharing of eBooklets and videos usually created by the marketer
+to gain interest in some of their products.Social media posts are a good way to share these products to attract prospects interest 
+in the other products they have to offer. Content marketing fits very well with affiliate marketing.
 <!--end-->
 
 
 
 
 
-
->![Online Content Marketing](./online-content-marketing01.jpg)
+>![Online Content Marketing](./online-content-marketing02.jpg)
