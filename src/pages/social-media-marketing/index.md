@@ -1,14 +1,14 @@
 ---
 title: "Social Media Marketing"
-date: "2018-07-01"
-path: "/src/pages/social-media-marketing"
-category: "Social Media Marketing"
+date: "2018-07-01T23:46:37.121Z"
+path: "Social Media Marketing"
+
 ---
-This post explains the many different platforms you can apply Social Media Marketing to and the advabtages of each.
-
-<!--end-->
 
 
+
+<!-- end -->
+Social media marketing is a very popular form of online marketing that implements social networking platforms and websites to engage people.It is a powerful way to reach existing and potential customers.It is one of the most versatile and cost effective ways to market your products and extend your brand awareness.
 
 
 
